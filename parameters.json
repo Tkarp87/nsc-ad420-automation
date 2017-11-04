@@ -6,37 +6,37 @@
             "value": "westus"
         },
         "virtualMachineName": {
-            "value": "automation-test"
+            "value": "travis-lecture6"
         },
         "virtualMachineSize": {
             "value": "Standard_B1s"
         },
         "adminUsername": {
-            "value": "toddysmroot"
+            "value": "travisroot"
         },
         "virtualNetworkName": {
-            "value": "nsc-automation-vnet"
+            "value": "travis-lecture6-vnet"
         },
         "networkInterfaceName": {
-            "value": "automation-test932"
+            "value": "travis-lecture6"
         },
         "diskSizeGB": {
             "value": "30"
         },
         "networkSecurityGroupName": {
-            "value": "automation-test-nsg"
+            "value": "travis-lecture6-nsg"
         },
         "adminPassword": {
             "value": null
         },
         "diagnosticsStorageAccountName": {
-            "value": "nscautomationdiag"
+            "value": "travisl6diag"
         },
         "diagnosticsStorageAccountType": {
             "value": "Standard_LRS"
         },
         "diagnosticsStorageAccountId": {
-            "value": "Microsoft.Storage/storageAccounts/nscautomationdiag"
+            "value": "Microsoft.Storage/storageAccounts/traivsl6diag"
         },
         "addressPrefix": {
             "value": "10.0.0.0/24"
@@ -48,7 +48,7 @@
             "value": "10.0.0.0/24"
         },
         "publicIpAddressName": {
-            "value": "automation-test-ip"
+            "value": "travis-lecture6-pubip"
         },
         "publicIpAddressType": {
             "value": "Dynamic"
